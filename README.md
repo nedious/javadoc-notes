@@ -4,14 +4,14 @@ javadoc documentation notes
 javadoc notes:
 
 comment:
-	###class
-	###method
-	###parameter (@param)
-	###return value (@return)
+	### class
+	### method
+	### parameter (@param)
+	### return value (@return)
 
 ----------------------------------------
 
-##comments:
+## comments:
 
 /***/
 
@@ -19,14 +19,14 @@ comment:
 
 ----------------------------------------
 
-##class
+## class
 
 **Format:**
 /** This sentence tells what the class is or does. */
 
 ----------------------------------------
 
-##method
+## method
 
 summary section:
 	displays the first sentence of the comment
@@ -45,9 +45,9 @@ Detail Section
 /** This sentence is the main method. This sentence is the detail section.*/
 (the second sentence following the ". " space and period, is the "method detail section")
 
-
 -------------------------------------------
-##parameter (@param)
+
+## parameter (@param)
 
 A parameter is a local variable that's used inside of a method 
 
@@ -75,7 +75,7 @@ Detail description of method.
 
 -------------------------------------------------
 
-##return value (@return)
+## return value (@return)
 
 this describes a return value, the value being returned by a method 
 
