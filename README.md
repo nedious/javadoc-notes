@@ -1,21 +1,13 @@
 # javadoc-notes
 javadoc documentation notes
 
-javadoc notes:
-
-comment:
-### class
-### method
-### parameter (@param)
-### return value (@return)
-
-----------------------------------------
-
 ## comments:
 
 /***/
 
-/** The notes. */
+/** Comment goes here. */
+
+# Comments go BEFORE *Class* or *Method* headers
 
 ----------------------------------------
 
