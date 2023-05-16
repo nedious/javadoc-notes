@@ -60,7 +60,7 @@ parameters are declared in method headers
 		a detail description, 
 		or another @param tag
 
-###written as follows:
+### written as follows:
 @param parameterName Description
 
   *parameterName* is: the name of the parameter 
@@ -81,7 +81,7 @@ this describes a return value, the value being returned by a method
 
 the @return tag must be placed *after* a summary description, a detail description, or another @return tag
 
-###written as follows:
+### written as follows:
 
 @return Description
 
